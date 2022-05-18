@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Modern and Responsive Mobile-enabled Web Applications
+AU  - Shahzad, Farrukh
+JO  - Procedia Computer Science
+VL  - 110
+SP  - 410
+EP  - 415
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 14th International Conference on Mobile Systems and Pervasive Computing (MobiSPC 2017) / 12th International Conference on Future Networks and Communications (FNC 2017) / Affiliated Workshops
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2017.06.105
+UR  - https://www.sciencedirect.com/science/article/pii/S187705091731284X
+KW  - Web-based Applications
+KW  - JavaScript
+KW  - Web Framework
+KW  - Mobile-friendly Application
+KW  - Single-Page Applications
+AB  - Rapid web technology improvements in the last few years have powered software developers to quickly write responsive mobile-friendly applications. The innovative web frameworks and libraries make it easy to have same software code base for desktop and mobile devices. Single-page applications offer a more-native-app-like experience to the user. This also means a web application can easily be converted to a native mobile application if desired. This allows software products to be evolved continuously at a much faster pace with features added on daily basis. The software companies who can adopt these technologies will most likely see the benefit in the long run as they can offer new and modified products faster than their competitors. In this paper, we review some of the state-of-the-art web technologies, third-party libraries, and frameworks for quick interactive web development. Finally, we present a simple interactive browser-based, mobile friendly web application which was developed using one of the latest web development framework.
+ER  - 

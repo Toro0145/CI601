@@ -1,0 +1,16 @@
+TY  - JOUR
+T1  - Design principles for the General Data Protection Regulation (GDPR): A formal concept analysis and its evaluation
+AU  - Tamburri, Damian A.
+JO  - Information Systems
+VL  - 91
+SP  - 101469
+PY  - 2020
+DA  - 2020/07/01/
+SN  - 0306-4379
+DO  - https://doi.org/10.1016/j.is.2019.101469
+UR  - https://www.sciencedirect.com/science/article/pii/S0306437919305216
+KW  - Privacy-by-design
+KW  - GDPR
+KW  - Formal-concept analysis
+AB  - Data and software are nowadays one and the same: for this very reason, the European Union (EU) and other governments introduce frameworks for data protection — a key example being the General Data Protection Regulation (GDPR). However, GDPR compliance is not straightforward: its text is not written by software or information engineers but rather, by lawyers and policy-makers. As a design aid to information engineers aiming for GDPR compliance, as well as an aid to software users’ understanding of the regulation, this article offers a systematic synthesis and discussion of it, distilled by the mathematical analysis method known as Formal Concept Analysis (FCA). By its principles, GDPR is synthesised as a concept lattice, that is, a formal summary of the regulation, featuring 144372 records — its uses are manifold. For example, the lattice captures so-called attribute implications, the implicit logical relations across the regulation, and their intensity. These results can be used as drivers during systems and services (re-)design, development, operation, or information systems’ refactoring towards more GDPR consistency.
+ER  - 

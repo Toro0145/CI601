@@ -1,0 +1,827 @@
+
+
+TY  - JOUR
+ID  - 1
+A1  - Markudova, Dena
+A1  - Trevisan, Martino
+A1  - Garza, Paolo
+A1  - Meo, Michela
+A1  - Munafo, Maurizio M.
+A1  - Carofiglio, Giovanna
+T1  - What's my App?: ML-based classification of RTC applications
+Y1  - 2021
+VL  - 48
+IS  - 4
+SP  - 41
+EP  - 44
+KW  - classification
+KW  - machine learning
+KW  - rtc applications
+KW  - voip
+AB  - With the spread of broadband Internet, Real-Time Communication (RTC) platforms have become increasingly popular and have transformed the way people communicate. Thus, it is fundamental that the network adopts traffic management policies that ensure appropriate Quality of Experience to users of RTC applications. A key step for this is the identification of the applications behind RTC traffic, which in turn allows to allocate adequate resources and make decisions based on the specific application's requirements. In this paper, we introduce a machine learning-based system for identifying the traffic of RTC applications. It builds on the domains contacted before starting a call and leverages techniques from Natural Language Processing (NLP) to build meaningful features. Our system works in real-time and is robust to the peculiarities of the RTP implementations of different applications, since it uses only control traffic. Experimental results show that our approach classifies 5 well-known meeting applications with an F1 score of 0.89.
+JF  - Performance evaluation review
+SN  - 0163-5999
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=0163-5999&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=0163-5999&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=0163-5999&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=What%27s+my+App%3F&rft.jtitle=Performance+evaluation+review&rft.au=Markudova%2C+Dena&rft.au=Trevisan%2C+Martino&rft.au=Garza%2C+Paolo&rft.au=Meo%2C+Michela&rft.date=2021-05-17&rft.issn=0163-5999&rft.eissn=1557-9484&rft.volume=48&rft.issue=4&rft.spage=41&rft.epage=44&rft_id=info:doi/10.1145%2F3466826.3466841&rft.externalDBID=n%2Fa&rft.externalDocID=10_1145_3466826_3466841&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/RnK7Y4Tk
+DO  - 10.1145/3466826.3466841
+M1  - Journal Article
+ER  -
+
+
+
+TY  - BOOK
+ID  - 2
+A1  - Vanderjack, Brian
+T1  - The Agile edge: managing projects effectively using Agile Scrum
+Y1  - 2015
+KW  - Agile
+KW  - Agile Scrum
+KW  - Agile software development
+KW  - ALCM
+KW  - ALM
+KW  - Application Life Cycle Manager
+KW  - Back log
+KW  - Burn down chart
+KW  - Burn up chart
+KW  - Ceremony
+KW  - Computer programs
+KW  - continuous Integration
+KW  - Daily Standup
+KW  - Demo
+KW  - Demonstration
+KW  - Extreme Programming
+KW  - Grooming
+KW  - Iteration
+KW  - Mission
+KW  - Product Owner
+KW  - Project management
+KW  - Rally
+KW  - Retrospective
+KW  - RTC
+KW  - Scrum
+KW  - Scrum (Computer software development)
+KW  - Scrum Master
+KW  - ScrumMaster
+KW  - Spring
+KW  - Sprint
+KW  - vision
+KW  - Visioning
+KW  - XP
+AB  - This concise book is an effective source for understanding Agile Scrum development; why we use it and how it works. It will explain to you how work gets done in manageable Iterations (AKA Sprints) and also the team meetings that keep work on track (AKA Ceremonies). Also, since risk is a constant threat to any team based project, managing risk in an Agile Scrum environment is specifically discussed. Therefore, this book is for you as a: New Agile Scrum team member, this book will help you get up to speed quickly Team leader this book describes the foundation of Agile Scrum so you can save time getting team members on the same page Trainer/Educator of Agile Scrum this book clearly defines Agile Scrum in a structured way so that students can learn how to effectively serve on an Agile team to improve their marketability In short, if you need to know Agile Scrum, this book will show you how to own it.
+ET  - First
+PB  - Business Expert Press
+CY  - New York, New York (222 East 46th Street, New York, NY 10017)
+SN  - 9781631571879;1631571877;
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=9781631571879/sc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781631571879/mc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781631571879/lc.gif&client=ubrighton&freeimage=true;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.title=The+Agile+edge&rft.au=Vanderjack%2C+Brian&rft.series=Portfolio+and+project+management+collection&rft.date=2015-01-01&rft.pub=Business+Expert+Press&rft.isbn=9781631571879&rft.externalDocID=1460159&paramdict=en-US
+U7  - eBook
+UR  - https://go.exlibris.link/lnSwdFP6
+N1  - QA76.76.D47V252 2015
+M1  - Book, Whole
+ER  -
+
+
+
+TY  - JOUR
+ID  - 3
+A1  - Carlucci, Gaetano
+A1  - De Cicco, Luca
+A1  - Holmer, Stefan
+A1  - Mascolo, Saverio
+T1  - Congestion Control for Web Real-Time Communication
+Y1  - 2017
+VL  - 25
+IS  - 5
+SP  - 2629
+EP  - 2642
+KW  - Algorithm design and analysis
+KW  - Computer Science
+KW  - Computer Science, Hardware & Architecture
+KW  - Computer Science, Theory & Methods
+KW  - Congestion control
+KW  - Delays
+KW  - Engineering
+KW  - Engineering, Electrical & Electronic
+KW  - Google
+KW  - Heuristic algorithms
+KW  - real-time communication
+KW  - Science & Technology
+KW  - Streaming media
+KW  - Technology
+KW  - Telecommunications
+KW  - videoconferencing
+KW  - WebRTC
+AB  - Applications requiring real-time communication (RTC) between Internet peers are ever increasing. RTC requires not only congestion control but also minimization of queuing delays to provide interactivity. It is known that the well-established transmission control protocol congestion control is not suitable for RTC due to its retransmissions and in-order delivery mechanisms, which induce significant latency. In this paper, we propose a novel congestion control algorithm for RTC, which is based on the main idea of estimating-using a Kalman Filter-the end-to-end one-way delay variation which is experienced by packets traveling from a sender to a destination. This estimate is compared with a dynamic threshold and drives the dynamics of a controller located at the receiver, which aims at maintaining queuing delays low, while a loss-based controller located at the sender acts when losses are detected. The proposed congestion control algorithm has been adopted by Google Chrome. Extensive experimental evaluations have shown that the algorithm contains queuing delays while providing intra and inter protocol fairness along with full link utilization.
+PB  - IEEE
+CY  - PISCATAWAY
+JF  - IEEE/ACM transactions on networking
+SN  - 1063-6692
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1063-6692&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1063-6692&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1063-6692&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Congestion+Control+for+Web+Real-Time+Communication&rft.jtitle=IEEE%2FACM+transactions+on+networking&rft.au=Carlucci%2C+Gaetano&rft.au=De+Cicco%2C+Luca&rft.au=Holmer%2C+Stefan&rft.au=Mascolo%2C+Saverio&rft.date=2017-10-01&rft.issn=1063-6692&rft.eissn=1558-2566&rft.volume=25&rft.issue=5&rft.spage=2629&rft.epage=2642&rft_id=info:doi/10.1109%2FTNET.2017.2703615&rft.externalDBID=n%2Fa&rft.externalDocID=10_1109_TNET_2017_2703615&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/4xBmXzwc
+DO  - 10.1109/TNET.2017.2703615
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 4
+A1  - Hou, I-Hong
+A1  - Kumar, P. R.
+T1  - Real-time communication over unreliable wireless links: a theory and its applications
+Y1  - 2012
+VL  - 19
+IS  - 1
+SP  - 48
+EP  - 59
+KW  - Computer Science
+KW  - Computer Science, Hardware & Architecture
+KW  - Computer Science, Information Systems
+KW  - Delay
+KW  - Engineering
+KW  - Engineering, Electrical & Electronic
+KW  - Optimal scheduling
+KW  - Real time systems
+KW  - Science & Technology
+KW  - Technology
+KW  - Telecommunications
+KW  - Throughput (networks)
+KW  - Wireless communication
+KW  - Wireless sensor networks
+AB  - Wireless networks are increasingly used to serve real-time flows. We provide an overview of an emerging theory on real-time wireless communications and some of its main results. This theory is based on a model that jointly considers the delay bounds and throughput requirements of clients, as well as the unreliable and heterogeneous nature of wireless links. This model can be further extended in several aspects. It provides solutions to three important problems, namely, admission control, packet scheduling, and utility maximization. The theory can also be extended to consider broadcast of real-time flows, and to incorporate network coding.
+PB  - IEEE
+CY  - PISCATAWAY
+JF  - IEEE wireless communications
+SN  - 1536-1284
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1536-1284&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1536-1284&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1536-1284&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=REAL-TIME+COMMUNICATION+OVER+UNRELIABLE+WIRELESS+LINKS%3A+A+THEORY+AND+ITS+APPLICATIONS&rft.jtitle=IEEE+wireless+communications&rft.au=Hou%2C+I-Hong&rft.au=Kumar%2C+P.+R&rft.date=2012-02-01&rft.pub=IEEE-INST+ELECTRICAL+ELECTRONICS+ENGINEERS+INC&rft.issn=1536-1284&rft.eissn=1558-0687&rft.volume=19&rft.issue=1&rft.spage=48&rft.epage=59&rft_id=info:doi/10.1109%2FMWC.2012.6155876&rft.externalDBID=n%2Fa&rft.externalDocID=000300715200008&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/C6PGh5QF
+DO  - 10.1109/MWC.2012.6155876
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 5
+A1  - Sisinni, Emiliano
+A1  - Saifullah, Abusayeed
+A1  - Han, Song
+A1  - Jennehag, Ulf
+A1  - Gidlund, Mikael
+T1  - Industrial Internet of Things: Challenges, Opportunities, and Directions
+Y1  - 2018
+VL  - 14
+IS  - 11
+SP  - 4724
+EP  - 4734
+KW  - Automation & Control Systems
+KW  - Communication Systems
+KW  - Computer and Information Sciences
+KW  - Computer Engineering
+KW  - Computer Science
+KW  - Computer Science, Interdisciplinary Applications
+KW  - Data- och informationsvetenskap
+KW  - Datorteknik
+KW  - Electrical Engineering, Electronic Engineering, Information Engineering
+KW  - Elektroteknik och elektronik
+KW  - Engineering
+KW  - Engineering and Technology
+KW  - Engineering, Industrial
+KW  - Industrial internet of things (IIoT)
+KW  - Industries
+KW  - Informatics
+KW  - Internet of Things
+KW  - Kommunikationssystem
+KW  - Natural Sciences
+KW  - Naturvetenskap
+KW  - Production
+KW  - Real-Time communication
+KW  - Real-time systems
+KW  - Reliability
+KW  - Science & Technology
+KW  - Security
+KW  - Technology
+KW  - Teknik och teknologier
+KW  - Telecommunications
+KW  - Telekommunikation
+KW  - wireless sensor network (WSN)
+AB  - Internet of Things (IoT) is an emerging domain that promises ubiquitous connection to the Internet, turning common objects into connected devices. The IoT paradigm is changing the way people interact with things around them. It paves the way to creating pervasively connected infrastructures to support innovative services and promises better flexibility and efficiency. Such advantages are attractive not only for consumer applications, but also for the industrial domain. Over the last few years, we have been witnessing the IoT paradigm making its way into the industry marketplace with purposely designed solutions. In this paper, we clarify the concepts of IoT, Industrial IoT, and Industry 4.0. We highlight the opportunities brought in by this paradigm shift as well as the challenges for its realization. In particular, we focus on the challenges associated with the need of energy efficiency, real-time performance, coexistence, interoperability, and security and privacy. We also provide a systematic overview of the state-of-the-art research efforts and potential research directions to solve Industrial IoT challenges.;Internet of Things (IoT) is an emerging domain that promises ubiquitous connection to the Internet, turning common objects into connected devices. The IoT paradigm is changing the way people interact with things around them. It paves the way for creating pervasively connected infrastructures to support innovative services and promises better flexibility and efficiency. Such advantages are attractive not only for consumer applications, but also for the industrial domain. Over the last few years, we have been witnessing the IoT paradigm making its way into the industry marketplace with purposely designed solutions. In this paper, we clarify the concepts of IoT, Industrial IoT, and Industry 4.0. We highlight the opportunities brought in by this paradigm shift as well as the challenges for its realization. In particular, we focus on the challenges associated with the need of energy efficiency, real-time performance, coexistence, interoperability, and security and privacy. We also provide a systematic overview of the state-of-the-art research efforts and potential research directions to solve Industrial IoT challenges.;
+PB  - IEEE
+CY  - PISCATAWAY
+JF  - IEEE transactions on industrial informatics
+SN  - 1551-3203;1941-0050;
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1551-3203&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1551-3203&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1551-3203&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Industrial+Internet+of+Things%3A+Challenges%2C+Opportunities%2C+and+Directions&rft.jtitle=IEEE+transactions+on+industrial+informatics&rft.au=Sisinni%2C+Emiliano&rft.au=Saifullah%2C+Abusayeed&rft.au=Han%2C+Song&rft.au=Jennehag%2C+Ulf&rft.date=2018-11-01&rft.pub=IEEE-INST+ELECTRICAL+ELECTRONICS+ENGINEERS+INC&rft.issn=1551-3203&rft.eissn=1941-0050&rft.volume=14&rft.issue=11&rft.spage=4724&rft.epage=4734&rft_id=info:doi/10.1109%2FTII.2018.2852491&rft.externalDBID=n%2Fa&rft.externalDocID=000450168500001&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/XhYcGQyH
+DO  - 10.1109/TII.2018.2852491
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 6
+A1  - Nett, E.
+A1  - Schemmer, S.
+T1  - Reliable real-time communication in cooperative mobile applications
+Y1  - 2003
+VL  - 52
+IS  - 2
+SP  - 166
+EP  - 180
+KW  - Atomic clocks
+KW  - Computer Science
+KW  - Computer Science, Hardware & Architecture
+KW  - Computers
+KW  - Distributed algorithms
+KW  - Distributed processing (Computers)
+KW  - Electrical equipment industry
+KW  - Embedded system
+KW  - Engineering
+KW  - Engineering, Electrical & Electronic
+KW  - Fault tolerance (Computers)
+KW  - Fault-tolerant real-time systems
+KW  - Industrial control
+KW  - Job shop scheduling
+KW  - Mobile communication
+KW  - Mobile communication systems
+KW  - Mobile computing
+KW  - Mobile robots
+KW  - Network architecture
+KW  - Real time systems
+KW  - Real-time control
+KW  - Research
+KW  - Robotics and automation
+KW  - Science & Technology
+KW  - Technology
+KW  - Traffic control
+KW  - Wireless communication systems
+KW  - Wireless networks
+AB  - Embedded systems are expected to provide increasingly complex and safety-critical services that will, sooner or later, require the cooperation of several such systems for their fulfillment. In particular, coordinating the access to shared physical and information technological resources will become a general problem. Examples are mobile robots in industrial automation or car-to-car coordination for future traffic control applications. In such applications, cooperation is subject to strong real-time and reliability requirements. In this paper, we present an architecture that allows autonomous mobile systems to schedule shared resources in real-time using their own wireless distributed infrastructure. In this architecture, there is a clear separation between the application-specific scheduling part and the application independent communication part that constitutes the real-time and reliability hardcore of the system. The latter provides clock synchronization, real-time atomic multicast, and real-time group membership based on an IEEE 802.11 Standard wireless LAN. An application prototype shows how the architecture can be used in future mobile cooperative applications.;An architecture, based on wireless communication, is described. It enables groups of mobile systems to schedule shared resources cooperatively.;
+PB  - IEEE
+CY  - LOS ALAMITOS
+JF  - IEEE transactions on computers
+SN  - 0018-9340
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=0018-9340&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=0018-9340&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=0018-9340&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Reliable+real-time+communication+in+cooperative+mobile+applications&rft.jtitle=IEEE+transactions+on+computers&rft.au=Nett%2C+E&rft.au=Schemmer%2C+S&rft.date=2003-02-01&rft.pub=IEEE+COMPUTER+SOC&rft.issn=0018-9340&rft.eissn=1557-9956&rft.volume=52&rft.issue=2&rft.spage=166&rft.epage=180&rft_id=info:doi/10.1109%2FTC.2003.1176984&rft.externalDBID=n%2Fa&rft.externalDocID=000180520500007&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/BdwKyRnx
+DO  - 10.1109/TC.2003.1176984
+M1  - Journal Article
+ER  -
+
+
+
+TY  - CONF
+ID  - 7
+A1  - Suciu, George
+A1  - Stefanescu, Stefan
+A1  - Beceanu, Cristian
+A1  - Ceaparu, Marian
+T1  - WebRTC role in real-time communication and video conferencing
+Y1  - 2020
+SP  - 1
+EP  - 6
+KW  - HTML5
+KW  - JavaScript API
+KW  - Node.js server
+KW  - real-time
+KW  - WebRTC
+AB  - Real-time communication (RTC) is a new standard and industry-wide effort that expand the web browsing model, allowing access to information in areas like social media, chat, video conferencing, and television over the internet, and unified communication. These systems users can view, record, remark, or edit video and audio content flows using time-critical cloud infrastructures that enforce the quality of services. However, there are many proprietary protocols and codecs available that are not easily interoperable and scalable to implement multipoint video-conference systems. WebRTC (Web Real-Time Communication) is a State-of-the-Art open technology that makes real-time communication capabilities in audio, video, and data transmission possible in real-time communication through web browsers using JavaScript APIs (Application Programming Interfaces) without plug-ins. This paper aims to introduce the P2P video conferencing system based on Web Real-Time Communication (WebRTC). In this paper, we have proposed a web-based peer-to-peer real-time communication system using the Mozilla Firefox together with the ScaleDrone service that enables users to communicate with high-speed data transmission over the communication channel using WebRTC technology, HTML5 and use Node.js server address. Our experiments show that WebRTC is a capable building block for scalable live video conferencing within a web browser.We also study a thermal camera for the videoconference system to identify the temperature body results regarding the COVID 19 crisis.
+PB  - IEEE
+JF  - 2020 Global Internet of Things Summit (GIoTS)
+SN  - 9781728121710;172812171X;
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=9781728121710/sc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781728121710/mc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781728121710/lc.gif&client=ubrighton&freeimage=true;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=proceeding&rft.title=2020+Global+Internet+of+Things+Summit+%28GIoTS%29&rft.atitle=WebRTC+role+in+real-time+communication+and+video+conferencing&rft.au=Suciu%2C+George&rft.au=Stefanescu%2C+Stefan&rft.au=Beceanu%2C+Cristian&rft.au=Ceaparu%2C+Marian&rft.date=2020-06-01&rft.pub=IEEE&rft.spage=1&rft.epage=6&rft_id=info:doi/10.1109%2FGIOTS49054.2020.9119656&rft.externalDocID=9116578&paramdict=en-US
+U7  - Conference Proceeding
+UR  - https://go.exlibris.link/wsmvVXtx
+DO  - 10.1109/GIOTS49054.2020.9119656
+M1  - Conference Proceedings
+ER  -
+
+
+
+TY  - CONF
+ID  - 8
+A1  - Alsalemi, Abdullah
+A1  - Al Homsi, Yahya
+A1  - Al Disi, Mohammed
+A1  - Ahmed, Ibrahim
+A1  - Bensaali, Faycal
+A1  - Amira, Abbes
+A1  - Alinier, Guillaume
+T1  - Real-Time Communication Network Using Firebase Cloud IoT Platform for ECMO Simulation
+Y1  - 2017;2018;
+VL  - 2018-
+SP  - 178
+EP  - 182
+KW  - and clinical training
+KW  - Cloud computing
+KW  - Databases
+KW  - ECMO simulation
+KW  - internet-of-things
+KW  - Microcontrollers
+KW  - real-time communications
+KW  - Real-time systems
+KW  - Training
+KW  - Wireless fidelity
+AB  - Extracorporeal membrane oxygenation (ECMO) is a high-complexity life-saving procedure where quick and coordinated interventions are required to avoid mortality. ECMO perfusionists and nurses must be well trained to respond to time-critical emergencies, using simulation-based education, which currently rely on rudimental ECMO simulation processes. Implementing a simulation system for such complex medical procedure necessitates a robust, well-coordinated underlying architecture. In this paper, the use of Internet of Things (IoT) service Firebase is presented in the case study of an ECMO simulator. Features of the proposed solution are discussed and justified in the given use case including latency, hardware compatibility, and data management. For the used case of ECMO simulation system, Firebase proved to be a proper communication solution that satisfied the urgent nature of medical training.
+PB  - IEEE
+JF  - 2017 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)
+SN  - 1538630656;9781538630655;
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=9781538630655/sc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781538630655/mc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781538630655/lc.gif&client=ubrighton&freeimage=true;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=proceeding&rft.title=2017+IEEE+International+Conference+on+Internet+of+Things+%28iThings%29+and+IEEE+Green+Computing+and+Communications+%28GreenCom%29+and+IEEE+Cyber%2C+Physical+and+Social+Computing+%28CPSCom%29+and+IEEE+Smart+Data+%28SmartData%29&rft.atitle=Real-Time+Communication+Network+Using+Firebase+Cloud+IoT+Platform+for+ECMO+Simulation&rft.au=Alsalemi%2C+Abdullah&rft.au=Al+Homsi%2C+Yahya&rft.au=Al+Disi%2C+Mohammed&rft.au=Ahmed%2C+Ibrahim&rft.date=2017-06-01&rft.pub=IEEE&rft.spage=178&rft.epage=182&rft_id=info:doi/10.1109%2FiThings-GreenCom-CPSCom-SmartData.2017.31&rft.externalDocID=8275085&paramdict=en-US
+U7  - Conference Proceeding
+UR  - https://go.exlibris.link/PDkJ9py8
+DO  - 10.1109/iThings-GreenCom-CPSCom-SmartData.2017.31
+M1  - Conference Proceedings
+ER  -
+
+
+
+TY  - EJOUR
+ID  - 9
+A1  - Michels, Dave
+T1  - 6 reasons why Slack is the next Netscape
+Y1  - 2017
+KW  - Internet
+KW  - Public switched telephone network
+KW  - Software industry
+KW  - Startups
+KW  - Teams
+AB  - [.]it is not recognized as an enterprise-wide solution. [.]recently, it didn't even offer an enterprise-wide service. According to Synergy research, WebEx held about 52.8 percent of the worldwide web conferencing as a service market. 5.
+PB  - Network World Inc
+CY  - Southborough
+JF  - Network World (Online)
+LA  - English
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=6+reasons+why+Slack+is+the+next+Netscape&rft.jtitle=Network+World+%28Online%29&rft.au=Dave+Michels&rft.date=2017-03-27&rft.pub=Network+World+Inc&rft.eissn=1944-7655&rft.externalDocID=4321200641&paramdict=en-US
+U7  - Trade Publication Article
+UR  - https://go.exlibris.link/cYV1tTw3
+M1  - Journal, Electronic
+ER  -
+
+
+
+TY  - JOUR
+ID  - 10
+A1  - Caro‐Álvaro, Sergio
+A1  - García‐López, Eva
+A1  - García‐Cabot, Antonio
+A1  - de‐Marcos, Luis
+A1  - Domínguez‐Díaz, Adrián
+T1  - Applying usability recommendations when developing mobile instant messaging applications
+Y1  - 2021
+JF  - IET software
+SN  - 1751-8806
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1751-8806&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1751-8806&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1751-8806&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Applying+usability+recommendations+when+developing+mobile+instant+messaging+applications&rft.jtitle=IET+software&rft.au=Caro%E2%80%90%C3%81lvaro%2C+Sergio&rft.au=Garc%C3%ADa%E2%80%90L%C3%B3pez%2C+Eva&rft.au=Garc%C3%ADa%E2%80%90Cabot%2C+Antonio&rft.au=de%E2%80%90Marcos%2C+Luis&rft.date=2021-09-07&rft.issn=1751-8806&rft.eissn=1751-8814&rft_id=info:doi/10.1049%2Fsfw2.12039&rft.externalDBID=n%2Fa&rft.externalDocID=10_1049_sfw2_12039&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/CBPJPWmX
+DO  - 10.1049/sfw2.12039
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 11
+A1  - Caro-Alvaro, Sergio
+A1  - Garcia-Lopez, Eva
+A1  - Garcia-Cabot, Antonio
+A1  - de-Marcos, Luis
+A1  - Martinez-Herraiz, Jose-Javier
+T1  - Identifying Usability Issues in Instant Messaging Apps on iOS and Android Platforms
+Y1  - 2018
+VL  - 2018
+SP  - 1
+EP  - 19
+KW  - Computer Science
+KW  - Computer Science, Information Systems
+KW  - Science & Technology
+KW  - Technology
+KW  - Telecommunications
+AB  - With the rise of mobile devices and the high number of instant messaging applications available in the stores, it is necessary to evaluate the usability of such applications to provide a more satisfying user experience. To this end, this paper presents a methodical usability evaluation of instant messaging applications both in iOS and Android platforms. A predefined evaluation was used, which was created to detect the main usability issues of mobile applications, regardless of the device used and the evaluated applications. Consequently, two methods were used: the keystroke level model and the mobile heuristic evaluation. Also, the results suggest that the main problems of this type of applications are difficulties in performing tasks (some of them were not agile nor easy to complete), lack of element cohesion (some icons and buttons did not follow the style of the operating system, bad translations, and too much information on the screen), problems with the user interface (pop-ups overlapping the status bar, clipped elements, sometimes the interface did not rotate, and, in other cases, the interface changed considerably when the device was rotated), and lack of information about privacy and security features. Finally, based on the results, we propose a set of recommendations that will be helpful for developers of this kind of applications.
+A2  - Carta, Salvatore
+PB  - Hindawi
+CY  - LONDON
+JF  - Mobile information systems
+SN  - 1574-017X
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1574-017X&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1574-017X&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1574-017X&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Identifying+usability+issues+in+instant+messaging+apps+on+iOS+and+android+platforms&rft.jtitle=Mobile+information+systems&rft.au=Caro-Alvaro%2C+Sergio&rft.au=Garcia-Lopez%2C+Eva&rft.au=Garcia-Cabot%2C+Antonio&rft.au=De-Marcos%2C+Luis&rft.date=2018&rft.issn=1574-017X&rft.eissn=1875-905X&rft.volume=2018&rft_id=info:doi/10.1155%2F2018%2F2056290&rft.externalDBID=n%2Fa&rft.externalDocID=624898440&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/5WkzZN5P
+DO  - 10.1155/2018/2056290
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 12
+A1  - Shahzad, Farrukh
+T1  - Modern and Responsive Mobile-enabled Web Applications
+Y1  - 2017
+VL  - 110
+SP  - 410
+EP  - 415
+KW  - JavaScript
+KW  - Mobile-friendly Application
+KW  - Single-Page Applications
+KW  - Web Framework
+KW  - Web-based Applications
+AB  - Rapid web technology improvements in the last few years have powered software developers to quickly write responsive mobile-friendly applications. The innovative web frameworks and libraries make it easy to have same software code base for desktop and mobile devices. Single-page applications offer a more-native-app-like experience to the user. This also means a web application can easily be converted to a native mobile application if desired. This allows software products to be evolved continuously at a much faster pace with features added on daily basis. The software companies who can adopt these technologies will most likely see the benefit in the long run as they can offer new and modified products faster than their competitors.
+In this paper, we review some of the state-of-the-art web technologies, third-party libraries, and frameworks for quick interactive web development. Finally, we present a simple interactive browser-based, mobile friendly web application which was developed using one of the latest web development framework.;Rapid web technology improvements in the last few years have powered software developers to quickly write responsive mobile-friendly applications. The innovative web frameworks and libraries make it easy to have same software code base for desktop and mobile devices. Single-page applications offer a more-native-app-like experience to the user. This also means a web application can easily be converted to a native mobile application if desired. This allows software products to be evolved continuously at a much faster pace with features added on daily basis. The software companies who can adopt these technologies will most likely see the benefit in the long run as they can offer new and modified products faster than their competitors. In this paper, we review some of the state-of-the-art web technologies, third-party libraries, and frameworks for quick interactive web development. Finally, we present a simple interactive browser-based, mobile friendly web application which was developed using one of the latest web development framework.;
+PB  - Elsevier B.V
+JF  - Procedia computer science
+SN  - 1877-0509
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1877-0509&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1877-0509&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1877-0509&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=proceeding&rft.title=Procedia+Computer+Science&rft.atitle=Modern+and+Responsive+Mobile-enabled+Web+Applications&rft.au=Shahzad%2C+Farrukh&rft.date=2017-01-01&rft.eissn=1877-0509&rft.volume=110&rft.spage=410&rft.epage=415&rft_id=info:doi/10.1016%2Fj.procs.2017.06.105&rft.externalDBID=n%2Fa&rft.externalDocID=618124141&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/KzrTrr5p
+DO  - 10.1016/j.procs.2017.06.105
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 13
+A1  - Pustišek, Matevž
+A1  - Kos, Andrej
+T1  - Approaches to Front-End IoT Application Development for the Ethereum Blockchain
+Y1  - 2018
+VL  - 129
+SP  - 410
+EP  - 419
+KW  - architecture
+KW  - blockchain
+KW  - Ethereum
+KW  - front end application
+KW  - IoT
+AB  - There are several distributed ledger protocols potentially suitable for the Internet of things (IoT), including the Ethereum, Hyperledger Fabric and IOTA. This paper briefly presents and compares them from the IoT application development perspective. The IoT applications based on blockchain (BC) can incorporate the on-chain logic -the smart contracts- and Web, mobile or embedded client front-end application parts. We present three possible architectures for the IoT front-end BC applications. They differ in positioning of Ethereum blockchain clients (local device, remote server) and in positioning of key store needed for the management of outgoing transactions. The practical constraints of these architectures, which utilize the Ethereum network for trusted transaction exchange, are the data volumes, the location and synchronization of the full blockchain node and the location and the access to the Ethereum key store. Results of these experiments indicate that a full Ethereum node is not likely to reliably run on a constrained IoT devices. Therefore the architecture with remote Ethereum clients seems to be a viable approach, where two sub-options exist and differ in key store location/management. In addition, we proposed the use of architectures with a proprietary communication between the IoT device and remote blockchain client to further reduce the network traffic and enhance security. We expect it to be able to operate over low-power, low-bitrate mobile technologies, too. Our research clarifies differences in architectural approaches, but final decision for a particular ledger protocol and front-end application architecture is at strongly based on the particular intended use case.
+PB  - Elsevier B.V
+JF  - Procedia computer science
+SN  - 1877-0509
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1877-0509&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1877-0509&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1877-0509&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=proceeding&rft.title=Procedia+Computer+Science&rft.atitle=Approaches+to+Front-End+IoT+Application+Development+for+the+Ethereum+Blockchain&rft.au=Pusti%C5%A1ek%2C+Matev%C5%BE&rft.au=Kos%2C+Andrej&rft.date=2018-01-01&rft.eissn=1877-0509&rft.volume=129&rft.spage=410&rft.epage=419&rft_id=info:doi/10.1016%2Fj.procs.2018.03.017&rft.externalDBID=n%2Fa&rft.externalDocID=622215329&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/TLqn2XbM
+DO  - 10.1016/j.procs.2018.03.017
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 14
+A1  - Zarir, Abdullah A.
+A1  - Oliva, Gustavo A.
+A1  - Jiang, Zhen M. Jack
+A1  - Hassan, Ahmed E.
+T1  - Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform
+Y1  - 2021
+VL  - 30
+IS  - 3
+SP  - 1
+EP  - 38
+KW  - blockchain
+KW  - Computer Science
+KW  - Computer Science, Software Engineering
+KW  - Ethereum
+KW  - Gas usage
+KW  - Science & Technology
+KW  - smart contracts
+KW  - Technology
+AB  - Ethereum is a blockchain platform that hosts and executes smart contracts. Executing a function of a smart contract burns a certain amount of gas units (a.k.a., gas usage). The total gas usage depends on how much computing power is necessary to carry out the execution of the function. Ethereum follows a free-market policy for deciding the transaction fee for executing a transaction. More specifically, transaction issuers choose how much they are willing to pay for each unit of gas (a.k.a., gas price). The final transaction fee corresponds to the gas price times the gas usage. Miners process transactions to gain mining rewards, which come directly from these transaction fees. The flexibility and the inherent complexity of the gas system pose challenges to the development of blockchain-powered applications. Developers of blockchain-powered applications need to translate requests received in the frontend of their application into one or more smart contract transactions. Yet, it is unclear how developers should set the gas parameters of these transactions given that (i) miners are free to prioritize transactions whichever way they wish and (ii) the gas usage of a contract transaction is only known after the transaction is processed and included in a new block. In this article, we analyze the gas usage of Ethereum transactions that were processed between Oct. 2017 and Feb. 2019 (the Byzantium era). We discover that (i) most miners prioritize transactions based on their gas price only, (ii) 25% of the functions that received at least 10 transactions have an unstable gas usage (coefficient of variation = 19%), and (iii) a simple prediction model that operates on the recent gas usage of a function achieves an R-Squared of 0.76 and a median absolute percentage error of 3.3%. We conclude that (i) blockchain-powered application developers should be aware that transaction prioritization in Ethereum is frequently done based solely on the gas price of transactions (e.g., a higher transaction fee does not necessarily imply a higher transaction priority) and act accordingly and (ii) blockchain-powered application developers can leverage gas usage prediction models similar to ours to make more informed decisions to set the gas price of their transactions. Lastly, based on our findings, we list and discuss promising avenues for future research.
+PB  - ASSOC COMPUTING MACHINERY
+CY  - NEW YORK
+JF  - ACM transactions on software engineering and methodology
+SN  - 1049-331X
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1049-331X&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1049-331X&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1049-331X&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Developing+Cost-Effective+Blockchain-Powered+Applications%3A+A+Case+Study+of+the+Gas+Usage+of+Smart+Contract+Transactions+in+the+Ethereum+Blockchain+Platform&rft.jtitle=ACM+transactions+on+software+engineering+and+methodology&rft.au=Zarir%2C+Abdullah+A&rft.au=Oliva%2C+Gustavo+A&rft.au=Jiang%2C+Zhen+M.+Jack&rft.au=Hassan%2C+Ahmed+E&rft.date=2021-05-01&rft.issn=1049-331X&rft.eissn=1557-7392&rft.volume=30&rft.issue=3&rft_id=info:doi/10.1145%2F3431726&rft.externalDBID=n%2Fa&rft.externalDocID=635011370&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/RXHw0t7h
+DO  - 10.1145/3431726
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 15
+A1  - Cai, Wei
+A1  - Wang, Zehua
+A1  - Ernst, Jason B.
+A1  - Hong, Zhen
+A1  - Feng, Chen
+A1  - Leung, Victor C. M.
+T1  - Decentralized Applications: The Blockchain-Empowered Software System
+Y1  - 2018
+VL  - 6
+SP  - 53019
+EP  - 53033
+KW  - Bitcoin
+KW  - Blockchain
+KW  - Computer Science
+KW  - Computer Science, Information Systems
+KW  - Contracts
+KW  - decentralized application
+KW  - Engineering
+KW  - Engineering, Electrical & Electronic
+KW  - Games
+KW  - Peer-to-peer computing
+KW  - Science & Technology
+KW  - smart contract
+KW  - Software systems
+KW  - survey
+KW  - Technology
+KW  - Telecommunications
+AB  - Blockchain technology has attracted tremendous attention in both academia and capital market. However, overwhelming speculations on thousands of available cryptocurrencies and numerous initial coin offering scams have also brought notorious debates on this emerging technology. This paper traces the development of blockchain systems to reveal the importance of decentralized applications (dApps) and the future value of blockchain. We survey the state-of-the-art dApps and discuss the direction of blockchain development to fulfill the desirable characteristics of dApps. The readers will gain an overview of dApp research and get familiar with recent developments in the blockchain.
+PB  - IEEE
+CY  - PISCATAWAY
+JF  - IEEE access
+SN  - 2169-3536
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=2169-3536&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=2169-3536&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=2169-3536&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Decentralized+Applications%3A+The+Blockchain-Empowered+Software+System&rft.jtitle=IEEE+access&rft.au=Cai%2C+Wei&rft.au=Wang%2C+Zehua&rft.au=Ernst%2C+Jason+B&rft.au=Hong%2C+Zhen&rft.date=2018&rft.issn=2169-3536&rft.eissn=2169-3536&rft.volume=6&rft.spage=53019&rft.epage=53033&rft_id=info:doi/10.1109%2FACCESS.2018.2870644&rft.externalDBID=n%2Fa&rft.externalDocID=10_1109_ACCESS_2018_2870644&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/qNtMNjJD
+DO  - 10.1109/ACCESS.2018.2870644
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 16
+A1  - Wu, Kaidong
+A1  - Ma, Yun
+A1  - Huang, Gang
+A1  - Liu, Xuanzhe
+T1  - A first look at blockchain‐based decentralized applications
+Y1  - 2021;2019;
+VL  - 51
+IS  - 10
+SP  - 2033
+EP  - 2050
+KW  - Computer Science
+KW  - Computer Science, Software Engineering
+KW  - decentralized applications
+KW  - empirical study
+KW  - Ethereum
+KW  - Science & Technology
+KW  - smart contract
+KW  - Technology
+AB  - Summary
+With the increasing popularity of blockchain technologies in recent years, blockchain‐based decentralized applications (DApps for short in this paper) have been rapidly developed and widely adopted in many areas, being a hot topic in both academia and industry. Despite of the importance of DApps, we still have quite little understanding of DApps along with its ecosystem. To bridge the knowledge gap, this paper presents the first comprehensive empirical study of blockchain‐based DApps to date, based on an extensive dataset of 995 Ethereum DApps and 29,846,075 transaction logs over them. We make a descriptive analysis of the popularity of DApps, summarize the patterns of how DApps use smart contracts to access the underlying blockchain, and explore the worth‐addressing issues of deploying and operating DApps. Based on the findings, we propose some implications for DApp users to select proper DApps, for DApp developers to improve the efficiency of DApps, and for blockchain vendors to enhance the support of DApps.;With the increasing popularity of blockchain technologies in recent years, blockchain-based decentralized applications (DApps for short in this paper) have been rapidly developed and widely adopted in many areas, being a hot topic in both academia and industry. Despite of the importance of DApps, we still have quite little understanding of DApps along with its ecosystem. To bridge the knowledge gap, this paper presents the first comprehensive empirical study of blockchain-based DApps to date, based on an extensive dataset of 995 Ethereum DApps and 29,846,075 transaction logs over them. We make a descriptive analysis of the popularity of DApps, summarize the patterns of how DApps use smart contracts to access the underlying blockchain, and explore the worth-addressing issues of deploying and operating DApps. Based on the findings, we propose some implications for DApp users to select proper DApps, for DApp developers to improve the efficiency of DApps, and for blockchain vendors to enhance the support of DApps.;
+PB  - WILEY
+CY  - HOBOKEN
+JF  - Software, practice & experience
+SN  - 0038-0644
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=0038-0644&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=0038-0644&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=0038-0644&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=A+first+look+at+blockchain-based+decentralized+applications&rft.jtitle=Software%2C+practice+%26+experience&rft.au=Wu%2C+Kaidong&rft.au=Ma%2C+Yun&rft.au=Huang%2C+Gang&rft.au=Liu%2C+Xuanzhe&rft.date=2019-10-21&rft.pub=WILEY&rft.issn=0038-0644&rft.eissn=1097-024X&rft_id=info:doi/10.1002%2Fspe.2751&rft.externalDBID=n%2Fa&rft.externalDocID=000491702900001&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/CbSkVj23
+DO  - 10.1002/spe.2751
+M1  - Journal Article
+ER  -
+
+
+
+TY  - JOUR
+ID  - 17
+A1  - Pack, Larissa
+T1  - NFTs: A NEW APPROACH TO DIGITAL CONTENT
+Y1  - 2021
+VL  - 38
+IS  - 8
+SP  - 30
+KW  - Computer files
+KW  - Crypto-currencies
+KW  - Cryptocurrencies
+KW  - Forecasts and trends
+KW  - Identification and classification
+KW  - Libraries
+KW  - Market size
+KW  - Market trend/market analysis
+KW  - Non-fungible tokens
+KW  - Safety and security measures
+KW  - Stores
+KW  - Technology application
+PB  - Information Today, Inc
+JF  - Information today
+SN  - 8755-6286
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=8755-6286&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=8755-6286&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=8755-6286&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=NFTs%3A+A+NEW+APPROACH+TO+DIGITAL+CONTENT&rft.jtitle=Information+today&rft.au=Pack%2C+Larissa&rft.date=2021-10-01&rft.pub=Information+Today%2C+Inc&rft.issn=8755-6286&rft.eissn=2169-0340&rft.volume=38&rft.issue=8&rft.spage=30&rft.externalDBID=IOF&rft.externalDocID=A678133332&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/WLCk2qTN
+M1  - Journal Article
+ER  -
+
+
+
+TY  - BOOK
+ID  - 18
+A1  - Drescher, Daniel
+T1  - Blockchain basics: a non-technical introduction in 25 steps
+Y1  - 2017
+KW  - Asymmetric cryptography
+KW  - Blockchain
+KW  - Blockchains (Databases)
+KW  - Consentaneous
+KW  - Cryptographic currencies
+KW  - Cryptographic hash function
+KW  - Cryptography
+KW  - Data encryption (Computer science)
+KW  - Database management
+KW  - Distributed consensus
+KW  - Distributed ledger technologies
+KW  - Distributed systems
+KW  - Double spending
+KW  - Electronic commerce
+KW  - Electronic funds transfers
+KW  - Hash pointers
+KW  - Hash puzzle
+KW  - Immutable ledger
+KW  - Paxos
+KW  - Peer-to-peer systems
+KW  - Private public key cryptography
+KW  - Proof of ownership
+KW  - Proof of work
+KW  - Raft
+KW  - Sybil attack
+AB  - In 25 concise steps, you will learn the basics of blockchain technology. No mathematical formulas, program code, or computer science jargon are used. No previous knowledge in computer science, mathematics, programming, or cryptography is required. Terminolog is explained through pictures, analogies, and metaphors. This book bridges the gap that exits between purely technical books about the blockchain and purely business-focused books. It does so by explaining both the technical concepts that make up the blockchain and their role in business-relevant applications.
+PB  - Apress
+CY  - Berkeley, California?
+SN  - 1484226046;9781484226049;1484226038;9781484226032;
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=9781484226049/sc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781484226049/mc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781484226049/lc.gif&client=ubrighton&freeimage=true;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.title=Blockchain+basics%3A+A+non-technical+introduction+in+25+steps&rft.au=Drescher%2C+Daniel&rft.date=2017-01-01&rft.isbn=1484226038&rft_id=info:doi/10.1007%2F978-1-4842-2604-9&rft.externalDBID=n%2Fa&rft.externalDocID=619131229&paramdict=en-US
+U7  - eBook
+UR  - https://go.exlibris.link/sqxt8432
+N1  - HG1710.D74 2017
+DO  - 10.1007/978-1-4842-2604-9
+M1  - Book, Whole
+ER  -
+
+
+
+TY  - BOOK
+ID  - 19
+A1  - Cobb, Charles G.
+T1  - Making sense of agile project management: balancing control and agility
+Y1  - 2011
+KW  - Agile software development
+KW  - BUSINESS & ECONOMICS
+KW  - Computer software
+KW  - COMPUTERS
+KW  - Development
+KW  - General
+KW  - Management
+KW  - Open Source
+KW  - Programming
+KW  - Project Management
+KW  - Projectmanagement
+KW  - Software Development & Engineering
+KW  - Software engineering
+KW  - Tools
+AB  - "The book is intended to provide a much deeper understanding of agile principles, methodologies, and practices to enable project managers to develop a more agile approach and understand how to blend and tailor agile and traditional principles, methodologies, and practices to create an appropriate balance of control and agility to fit a business environment as well as the risks and complexities of any individual project. The book will also provide business managers and leaders an understanding of how to fit agile methodologies into an overall business strategy that provides the right balance of control and agility for their business"--
+PB  - Wiley
+CY  - Hoboken, NJ
+SN  - 1118015681;1118085957;9781118015698;9781118015704;111801569X;9781118085950;9781118015681;1118015703;9780470943366;047094336X;
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=9781118015681/sc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781118015681/mc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781118015681/lc.gif&client=ubrighton&freeimage=true;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.title=Making+Sense+of+Agile+Project+Management%3A+Balancing+Control+and+Agility&rft.au=Cobb%2C+Charles+G&rft.date=2011-03-15&rft.isbn=9780470943366&rft_id=info:doi/10.1002%2F9781118085950&rft.externalDBID=n%2Fa&rft.externalDocID=255153679&paramdict=en-US
+U7  - eBook
+UR  - https://go.exlibris.link/BbS3mMr5
+N1  - QA76.758.C57 2011eb
+DO  - 10.1002/9781118085950
+M1  - Book, Whole
+ER  -
+
+
+
+TY  - JOUR
+ID  - 20
+A1  - Cervone, H. Frank
+T1  - Understanding agile project management methods using Scrum
+Y1  - 2011
+VL  - 27
+IS  - 1
+SP  - 18
+EP  - 22
+KW  - Digital libraries
+KW  - Project management
+KW  - Project planning
+AB  - Purpose - This paper seeks to define and describe agile project management using the Scrum methodology as a method for more effectively managing and completing projects.Design methodology approach - This paper provides a general overview and introduction to the concepts of agile project management and the Scrum methodology in particular.Findings - Agile project management using the Scrum methodology allows project teams to manage digital library projects more effectively by decreasing the amount of overhead dedicated to managing the project. Using an iterative process of continuous review and short-design time frames, the project team is better able to quickly adapt projects to rapidly evolving environments in which systems will be used.Originality value - This paper fills a gap in the digital library project management literature by providing an overview of agile project management methods.
+PB  - Emerald Group Publishing Limited
+JF  - OCLC systems & services
+SN  - 1065-075X
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=1065-075X&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=1065-075X&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=1065-075X&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Understanding+agile+project+management+methods+using+Scrum&rft.jtitle=OCLC+systems+%26+services&rft.au=Cervone%2C+H.+Frank&rft.date=2011-02-15&rft.pub=Emerald+Group+Publishing+Limited&rft.issn=1065-075X&rft.eissn=2054-1694&rft.volume=27&rft.issue=1&rft.spage=18&rft.epage=22&rft_id=info:doi/10.1108%2F10650751111106528&rft.externalDocID=10.1108%2F10650751111106528&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/VW7Hx1Ff
+DO  - 10.1108/10650751111106528
+M1  - Journal Article
+ER  -
+
+
+
+TY  - BOOK
+ID  - 21
+A1  - Nicolaas, Dion
+T1  - Scrum for Teams: A Guide by Practical Example
+Y1  - 2018
+KW  - Agile software development
+KW  - Project management
+KW  - Scrum (Computer software development)
+AB  - Scrum is an agile framework for completing complex projects. This book gives examples, tools, and tricks to do Scrum well. For each trick it is explained why it helps. The practices themselves may be worth trying, but by understanding why it works the readers will be able to come up with their own ideas that work better in their organization and situation. All the practical examples in this book have helped someone, somewhere to become a part of a better Scrum team. Scrum's motto is: Inspect and Adapt change small things one at a time and see what works. Scrum is not done by project leaders or managers, but really by the teams-to succeed in an organization, the teams must do Scrum well. If the teams do Scrum well, the whole organization will benefit from it. Scrum helps a team self-organize, which fits in well with developers, who usually don't like to be micromanaged. At the same time, Scrum can scale: Self-organized teams work together well, and one manager doesn't have to manage all the people. The lessons from this book help Scrum teams develop into autonomous, proud, and independent teams. Often teams fail to become powerful enough to change the organization, so they cannot perform to their full potential. A good team can lead the stakeholders into trusting them. They will then make plans based on the team's release planning instead of making roadmaps out of thin air, and thus make the organization much more predictable.
+ET  - 2nd
+PB  - Business Expert Press
+CY  - Newark
+SN  - 9781948198448;1948198444;1948198436;9781948198431;
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=9781948198448/sc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781948198448/mc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781948198448/lc.gif&client=ubrighton&freeimage=true;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.title=Scrum+for+Teams&rft.au=Nicolaas%2C+Dion&rft.series=Portfolio+and+project+management+collection&rft.date=2018-01-01&rft.pub=Business+Expert+Press&rft.isbn=9781948198448&rft.externalDocID=1470348&paramdict=en-US
+U7  - eBook
+UR  - https://go.exlibris.link/b2HThv5t
+N1  - HD69.P75
+M1  - Book, Whole
+ER  -
+
+
+
+TY  - JOUR
+ID  - 22
+A1  - Tamburri, Damian A.
+T1  - Design principles for the General Data Protection Regulation (GDPR): A formal concept analysis and its evaluation
+Y1  - 2020
+VL  - 91
+SP  - 101469
+KW  - Computer Science
+KW  - Computer Science, Information Systems
+KW  - Formal-concept analysis
+KW  - GDPR
+KW  - Privacy-by-design
+KW  - Science & Technology
+KW  - Technology
+AB  - Data and software are nowadays one and the same: for this very reason, the European Union (EU) and other governments introduce frameworks for data protection - a key example being the General Data Protection Regulation (GDPR). However, GDPR compliance is not straightforward: its text is not written by software or information engineers but rather, by lawyers and policy-makers. As a design aid to information engineers aiming for GDPR compliance, as well as an aid to software users' understanding of the regulation, this article offers a systematic synthesis and discussion of it, distilled by the mathematical analysis method known as Formal Concept Analysis (FCA). By its principles, GDPR is synthesised as a concept lattice, that is, a formal summary of the regulation, featuring 144372 records - its uses are manifold. For example, the lattice captures so-called attribute implications, the implicit logical relations across the regulation, and their intensity. These results can be used as drivers during systems and services (re-)design, development, operation, or information systems' refactoring towards more GDPR consistency. (C) 2019 The Author( s). Published by Elsevier Ltd.;Data and software are nowadays one and the same: for this very reason, the European Union (EU) and other governments introduce frameworks for data protection — a key example being the General Data Protection Regulation (GDPR). However, GDPR compliance is not straightforward: its text is not written by software or information engineers but rather, by lawyers and policy-makers. As a design aid to information engineers aiming for GDPR compliance, as well as an aid to software users’ understanding of the regulation, this article offers a systematic synthesis and discussion of it, distilled by the mathematical analysis method known as Formal Concept Analysis (FCA). By its principles, GDPR is synthesised as a concept lattice, that is, a formal summary of the regulation, featuring 144372 records — its uses are manifold. For example, the lattice captures so-called attribute implications, the implicit logical relations across the regulation, and their intensity. These results can be used as drivers during systems and services (re-)design, development, operation, or information systems’ refactoring towards more GDPR consistency.;Data and software are nowadays one and the same: for this very reason, the European Union (EU) and other governments introduce frameworks for data protection — a key example being the General Data Protection Regulation (GDPR). However, GDPR compliance is not straightforward: its text is not written by software or information engineers but rather, by lawyers and policy-makers. As a design aid to information engineers aiming for GDPR compliance, as well as an aid to software users’ understanding of the regulation, this article offers a systematic synthesis and discussion of it, distilled by the mathematical analysis method known as Formal Concept Analysis (FCA). By its principles, GDPR is synthesised as a concept lattice, that is, a formal summary of the regulation, featuring 144372 records — its uses are manifold. For example, the lattice captures so-called attribute implications, the implicit logical relations across the regulation, and their intensity. These results can be used as drivers during systems and services (re-)design, development, operation, or information systems’ refactoring towards more GDPR consistency.
+•Application of formal concept analysis to GDPR.•Rigorous elicitation for design principles and knowledge from the regulation.•Dataset for further reuse & ontology extraction.•Levels of complexity and foci for business process modelling and mining.;
+PB  - Elsevier Ltd
+CY  - OXFORD
+JF  - Information systems (Oxford)
+SN  - 0306-4379
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=/sc.gif&issn=0306-4379&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/mc.gif&issn=0306-4379&client=ubrighton;http://www.syndetics.com/index.aspx?isbn=/lc.gif&issn=0306-4379&client=ubrighton;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Design+principles+for+the+General+Data+Protection+Regulation+%28GDPR%29%3A+A+formal+concept+analysis+and+its+evaluation&rft.jtitle=Information+systems+%28Oxford%29&rft.au=Tamburri%2C+Damian+A&rft.date=2020-07-01&rft.issn=0306-4379&rft.eissn=1873-6076&rft.volume=91&rft_id=info:doi/10.1016%2Fj.is.2019.101469&rft.externalDBID=n%2Fa&rft.externalDocID=2005128572&paramdict=en-US
+U7  - Journal Article
+UR  - https://go.exlibris.link/HgckcFTr
+DO  - 10.1016/j.is.2019.101469
+M1  - Journal Article
+ER  -
+
+
+
+TY  - CONF
+ID  - 23
+A1  - Renaud, Karen
+A1  - Shepherd, Lynsay A.
+T1  - How to Make Privacy Policies both GDPR-Compliant and Usable
+Y1  - 2018
+SP  - 1
+EP  - 8
+AB  - It is important for organisations to ensure that their privacy policies are General Data Protection Regulation (GDPR) compliant, and this has to be done by the May 2018 deadline. However, it is also important for these policies to be designed with the needs of the human recipient in mind. We carried out an investigation to find out how best to achieve this.We commenced by synthesising the GDPR requirements into a checklist-type format. We then derived a list of usability design guidelines for privacy notifications from the research literature.We augmented the recommendations with other findings reported in the research literature, in order to confirm the guidelines. We conclude by providing a usable and GDPR-compliant privacy policy template for the benefit of policy writers.
+PB  - IEEE
+JF  - 2018 International Conference On Cyber Situational Awareness, Data Analytics And Assessment (Cyber SA)
+SN  - 9781538645659;1538645653;
+LA  - English
+U5  - http://www.syndetics.com/index.aspx?isbn=9781538645659/sc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781538645659/mc.gif&client=ubrighton&freeimage=true;http://www.syndetics.com/index.aspx?isbn=9781538645659/lc.gif&client=ubrighton&freeimage=true;
+U6  - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info%3Asid%2Fsummon.serialssolutions.com&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=proceeding&rft.title=2018+International+Conference+On+Cyber+Situational+Awareness%2C+Data+Analytics+And+Assessment+%28Cyber+SA%29&rft.atitle=How+to+Make+Privacy+Policies+both+GDPR-Compliant+and+Usable&rft.au=Renaud%2C+Karen&rft.au=Shepherd%2C+Lynsay+A&rft.date=2018-06-01&rft.pub=IEEE&rft.spage=1&rft.epage=8&rft_id=info:doi/10.1109%2FCyberSA.2018.8551442&rft.externalDocID=8536739&paramdict=en-US
+U7  - Conference Proceeding
+UR  - https://go.exlibris.link/zxLSWLTZ
+DO  - 10.1109/CyberSA.2018.8551442
+M1  - Conference Proceedings
+ER  -

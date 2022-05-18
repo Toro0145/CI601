@@ -1,0 +1,21 @@
+%0 Journal Article
+%A Caro-Álvaro, Sergio
+%A García-López, Eva
+%A García-Cabot, Antonio
+%A de-Marcos, Luis
+%A Domínguez-Díaz, Adrián
+
+%T Applying usability recommendations when developing mobile instant messaging applications
+%D 
+%J IET Software
+%P 
+%V n/a
+%N n/a
+%@ 1751-8806
+%R https://doi.org/10.1049/sfw2.12039
+%U https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/sfw2.12039
+%X Abstract Mobile Instant Messaging applications noted a growing number of active users recently. Although having millions of users, the previous research results have shown usability flaws in this type of mobile applications. Difficulties when performing tasks, poor design of user interfaces, or lack of information about privacy and security methods were some of the identified flaws. Consequently, a collection of usability recommendations was proposed. The goal of these recommendations is to improve the experience in the use of these mobile applications and, thus, enhancing the usability of this kind of apps. These recommendations were taken into account during the development process of a new instant messaging application. Thus, in this study, the authors present the resulting application, its characteristics, how usability recommendations were covered through design and development phases, and a preliminary usability evaluation performed by conducting two research methods: KLM and Mobile Heuristic Evaluation. Both methods ranked the prototype at top positions (i.e. good usability results) when compared with the results obtained in previous studies about other existing instant messaging applications.
+
+
+
+

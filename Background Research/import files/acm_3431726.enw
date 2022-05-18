@@ -1,0 +1,16 @@
+%0 Journal Article
+%T Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform
+%V 30
+%@ 1049-331X
+%U https://doi-org.ezproxy.brighton.ac.uk/10.1145/3431726
+%R 10.1145/3431726
+%N 3
+%J ACM Trans. Softw. Eng. Methodol.
+%I Association for Computing Machinery
+%A Abdullah A. Zarir
+%A Gustavo A. Oliva
+%A Zhen M. (Jack) Jiang
+%A Ahmed E. Hassan
+%D 2021
+%P Article 28
+%K blockchain, smart contracts, Ethereum, Gas usage

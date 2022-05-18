@@ -1,0 +1,20 @@
+TY  - JOUR
+A2  - Carta, Salvatore
+AU  - Caro-Alvaro, Sergio
+AU  - Garcia-Lopez, Eva
+AU  - Garcia-Cabot, Antonio
+AU  - de-Marcos, Luis
+AU  - Martinez-Herraiz, Jose-Javier
+PY  - 2018
+DA  - 2018/10/10
+TI  - Identifying Usability Issues in Instant Messaging Apps on iOS and Android Platforms
+SP  - 2056290
+VL  - 2018
+AB  -         With the rise of mobile devices and the high number of instant messaging applications available in the stores, it is necessary to evaluate the usability of such applications to provide a more satisfying user experience. To this end, this paper presents a methodical usability evaluation of instant messaging applications both in iOS and Android platforms. A predefined evaluation was used, which was created to detect the main usability issues of mobile applications, regardless of the device used and the evaluated applications. Consequently, two methods were used: the keystroke level model and the mobile heuristic evaluation. Also, the results suggest that the main problems of this type of applications are difficulties in performing tasks (some of them were not agile nor easy to complete), lack of element cohesion (some icons and buttons did not follow the style of the operating system, bad translations, and too much information on the screen), problems with the user interface (pop-ups overlapping the status bar, clipped elements, sometimes the interface did not rotate, and, in other cases, the interface changed considerably when the device was rotated), and lack of information about privacy and security features. Finally, based on the results, we propose a set of recommendations that will be helpful for developers of this kind of applications.
+SN  - 1574-017X
+UR  - https://doi.org/10.1155/2018/2056290
+DO  - 10.1155/2018/2056290
+JF  - Mobile Information Systems
+PB  - Hindawi
+KW  - 
+ER  - 

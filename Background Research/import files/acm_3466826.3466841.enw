@@ -1,0 +1,18 @@
+%0 Journal Article
+%T What's my App? ML-based classification of RTC applications
+%V 48
+%@ 0163-5999
+%U https://doi-org.ezproxy.brighton.ac.uk/10.1145/3466826.3466841
+%R 10.1145/3466826.3466841
+%N 4
+%J SIGMETRICS Perform. Eval. Rev.
+%I Association for Computing Machinery
+%A Dena Markudova
+%A Martino Trevisan
+%A Paolo Garza
+%A Michela Meo
+%A Maurizio M. Munafo
+%A Giovanna Carofiglio
+%D 2021
+%P 41–44
+%K rtc applications, machine learning, classification, voip

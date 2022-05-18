@@ -1,0 +1,20 @@
+%0 Journal Article
+%A Wu, Kaidong
+%A Ma, Yun
+%A Huang, Gang
+%A Liu, Xuanzhe
+
+%T A first look at blockchain-based decentralized applications
+%D 2021
+%J Software: Practice and Experience
+%P 2033-2050
+%V 51
+%N 10
+%@ 0038-0644
+%R https://doi.org/10.1002/spe.2751
+%U https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2751
+%X Summary With the increasing popularity of blockchain technologies in recent years, blockchain-based decentralized applications (DApps for short in this paper) have been rapidly developed and widely adopted in many areas, being a hot topic in both academia and industry. Despite of the importance of DApps, we still have quite little understanding of DApps along with its ecosystem. To bridge the knowledge gap, this paper presents the first comprehensive empirical study of blockchain-based DApps to date, based on an extensive dataset of 995 Ethereum DApps and 29,846,075 transaction logs over them. We make a descriptive analysis of the popularity of DApps, summarize the patterns of how DApps use smart contracts to access the underlying blockchain, and explore the worth-addressing issues of deploying and operating DApps. Based on the findings, we propose some implications for DApp users to select proper DApps, for DApp developers to improve the efficiency of DApps, and for blockchain vendors to enhance the support of DApps.
+
+
+
+

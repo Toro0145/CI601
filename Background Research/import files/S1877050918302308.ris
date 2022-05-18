@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - Approaches to Front-End IoT Application Development for the Ethereum Blockchain
+AU  - Pustišek, Matevž
+AU  - Kos, Andrej
+JO  - Procedia Computer Science
+VL  - 129
+SP  - 410
+EP  - 419
+PY  - 2018
+DA  - 2018/01/01/
+T2  - 2017 INTERNATIONAL CONFERENCE ON IDENTIFICATION,INFORMATION AND KNOWLEDGEIN THE INTERNET OF THINGS
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2018.03.017
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050918302308
+KW  - architecture
+KW  - blockchain
+KW  - Ethereum
+KW  - front end application
+KW  - IoT
+AB  - There are several distributed ledger protocols potentially suitable for the Internet of things (IoT), including the Ethereum, Hyperledger Fabric and IOTA. This paper briefly presents and compares them from the IoT application development perspective. The IoT applications based on blockchain (BC) can incorporate the on-chain logic –the smart contracts– and Web, mobile or embedded client front-end application parts. We present three possible architectures for the IoT front-end BC applications. They differ in positioning of Ethereum blockchain clients (local device, remote server) and in positioning of key store needed for the management of outgoing transactions. The practical constraints of these architectures, which utilize the Ethereum network for trusted transaction exchange, are the data volumes, the location and synchronization of the full blockchain node and the location and the access to the Ethereum key store. Results of these experiments indicate that a full Ethereum node is not likely to reliably run on a constrained IoT devices. Therefore the architecture with remote Ethereum clients seems to be a viable approach, where two sub-options exist and differ in key store location/management. In addition, we proposed the use of architectures with a proprietary communication between the IoT device and remote blockchain client to further reduce the network traffic and enhance security. We expect it to be able to operate over low-power, low-bitrate mobile technologies, too. Our research clarifies differences in architectural approaches, but final decision for a particular ledger protocol and front-end application architecture is at strongly based on the particular intended use case.
+ER  - 
