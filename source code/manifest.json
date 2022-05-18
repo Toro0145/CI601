@@ -1,0 +1,21 @@
+{
+  "short_name": "UniChat",
+  "name": "UniChat",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "description": "A real time, responsive, installable chat application designed  University students to instant message",
+  "background_color": "#ffffff"
+}
